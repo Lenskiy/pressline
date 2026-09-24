@@ -54,7 +54,7 @@
     "prepublishOnly": "pnpm build"
   },
   "dependencies": {
-    "@effect/cli": "^0.77.1",
+    "@effect/cli": "^0.77.2",
     "@effect/platform": "^0.97.2",
     "@effect/platform-node": "^0.108.2",
     "@pressline/conformance": "workspace:^",
